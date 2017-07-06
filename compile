@@ -1,4 +1,4 @@
-(cd assets && node_modules/.bin/webpack -p)
+(cd $phoenix_dir/assets && node_modules/.bin/webpack -p)
 
 cd $phoenix_dir
 
